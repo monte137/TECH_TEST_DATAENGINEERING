@@ -1,0 +1,9 @@
+● ¿Qué mejoras propondrías a tu solución para siguientes versiones?
+- Mejorar y facilitar el uso de las rutas dentro del código. 
+- Validación de variables de entrada: Asegurarse que los datos sean válidos antes de procesarlos.
+- Manejo de excepciones.
+● Tu solución le ha gustado al equipo y deciden incorporar otros procesos, habrá nuevas
+personas colaborando contigo, ¿Qué aspectos o herramientas considerarías para
+escalar, organizar y automatizar tu solución?
+- Consideraría el uso de control de versiones, para facilitar la colaboración en equipo, el seguimiento y control de cambios.
+- Automatización de esta tarea, utilizando airflow por ejemplo.
