@@ -21,3 +21,7 @@ The script requires the following configuration:
 The path to the main folder where the data and output directories are located should be set in the path variable in the main() function.
 The get_weather_data() function uses a URL to connect to the CONAGUA API. This URL can be updated if the API endpoint changes.
 "data_municipios" and "HourlyForecast_MX" folders should be download for the script to run correctly.
+
+### Challenges faced
+The main challenge I faced during this tech test was that I found the CONAGUA API wasn't working. That complicated the process at first, however the CONAGUA website still let me download the last dataframe available, which allowed me to develop the script. The first thing the script does is trying to connect to the API, in case this isn't possible, data is directly taken from the "HourlyForecast_MX".
+
