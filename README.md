@@ -2,7 +2,7 @@
 Solution to tech challenge
 
 ## Weather Data Extraction and Update
-This Python script extracts weather data from the CONAGUA API, combines it with existing data from previous extractions, and saves the updated data to a CSV file.
+This Python script extracts weather data from the CONAGUA API, combines it with existing data, and saves the updated data to a CSV file.
 
 ### Requirements
 The script requires the following Python packages:
